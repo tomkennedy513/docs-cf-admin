@@ -1,0 +1,23 @@
+extended-app-support.html.md.erb
+  ab70f6734b3bf2f1 27,35,54,62
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.17",
+  "base_commit_sha": "951896cfb8b3e157432ba2cd121a942675eca2e2",
+  "prompts": {
+    "ab70f6734b3bf2f1": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "a3639487-cc7e-4b7f-af12-ee7dd57e8fb2",
+        "model": "claude-4.6-opus-high"
+      },
+      "human_author": "Tom Kennedy <tom.kennedy@broadcom.com>",
+      "messages": [],
+      "total_additions": 8,
+      "total_deletions": 8,
+      "accepted_lines": 4,
+      "overriden_lines": 0
+    }
+  }
+}
